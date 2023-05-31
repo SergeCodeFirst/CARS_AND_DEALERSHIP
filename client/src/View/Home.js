@@ -16,7 +16,7 @@ const Home = (props) => {
             })
     }, []);
     return <div>
-        <h1>Hello from home</h1>
+        <h1>Hello from home 1</h1>
         <h2>{greet.home}</h2>
     </div>
 }
